@@ -12,7 +12,7 @@ public class Main {
 
         System.out.println(result);
 
-        String str2 = "(1+2(=3";
+        String str2 = "(1+2)<>=3";
 
         Balanced_Expresstion Balance = new Balanced_Expresstion();
 
